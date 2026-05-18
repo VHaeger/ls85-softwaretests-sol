@@ -84,11 +84,13 @@ if __name__ == "__main__":
 
 # Prinzip 2 – Vollständiges Testen ist unmöglich:
 # Beispiel aus dem Berufsalltag:
-# TODO: Deine Antwort hier
+# Eine Website hat viele mögliche Fehlerquellen (z.B. Bildformat und Sonderzeichen).
+# Testen um alle möglichen Fehler zu finden kostet zu viel Zeit.
 
 # Prinzip 4 – Defect Clustering:
 # Beispiel aus dem Berufsalltag:
-# TODO: Deine Antwort hier
+# Die meisten Defekte findet man im User Interface. Im Backend treten fast gar keine auf.
 
 # Welches Prinzip überrascht dich? Warum?
-# TODO: Deine Antwort hier
+# Am meisten überrascht mich "5. Beware of the Pesticide Paradox" da wenn eine Software ein Update bekommt.
+# Die alten Tests wieder Relevant werden
